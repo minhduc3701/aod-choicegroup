@@ -12,7 +12,10 @@
     "@types/react-dom": "^16.9.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "aod-dependencies": "file:../../RC365UI/AOP.RC365/RC365.WebUI/dist/Dependencies",
+    "@types/styled-components": "^5.1.2",
     "react-scripts": "3.4.3",
+    "styled-components": "^5.1.1",
     "typescript": "~3.7.2"
   },
   "scripts": {
